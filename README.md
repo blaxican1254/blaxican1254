@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blaxican1254
+- 👋 Hi, I’m Justin Williams
 - 👀 I’m interested in Video Gaming, Anime, Eating chinese food and Golden Retrievers hahaha
 - 🌱 I’m currently learning how to use Git, and Javascipt.
 - 💞️ I’m looking to collaborate on how to be proficient in coding and developing for a front end system.
